@@ -11,3 +11,12 @@
 - Python (Beginner)
 - Bash / Shell Scripting
 - Git / GitHub
+
+---
+## Certifications
+- HackerRank: Python (Basic), earned 23 Nov 2026. Certificate: [certificates/python_basic_certificate.pdf](certificates/python_basic_certificate.pdf) | Verify: https://www.hackerrank.com/certificates/0b9d94235f7a
+
+## Contact
+- Phone: 6289326076
+- Email: ayushganguly2007@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ayush-ganguly-b74451425
