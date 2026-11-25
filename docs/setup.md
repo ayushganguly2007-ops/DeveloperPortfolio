@@ -7,8 +7,8 @@
 ## Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayushganguly2007-ops/developer-portfolio.git
-   cd developer-portfolio
+   git clone https://github.com/ayushganguly2007-ops/DeveloperPortfolio.git
+   cd DeveloperPortfolio
    ```
 2. Check the Python version:
    ```bash
